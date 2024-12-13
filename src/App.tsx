@@ -1,7 +1,7 @@
 
 function App() {
 
-  return <>++sens hello=++</>
+  return <>sens hello=++</>
 }
 
 export default App
